@@ -8,7 +8,7 @@ public class Test {
 		
 		System.out.println("hello");
 		System.out.println("잘자");
-		System.out.println("좆같다 깃허브");
+		System.out.println("깃허브 짱짱맨");
 	}
 
 }
