@@ -8,6 +8,6 @@ public class Test {
 		
 		System.out.println("안녕");
 		System.out.println("잘자");
-		System.out.println("깃허브 사용법");
+		System.out.println("깃허브 어려워");
 	}
 }
